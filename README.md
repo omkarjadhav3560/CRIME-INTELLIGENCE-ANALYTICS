@@ -6,7 +6,7 @@ The project demonstrates a complete data-analysis workflow:
 
 **Raw Data → Data Cleaning → Data Transformation → Pivot Analysis → Dashboard → Business Insights**
 
-[Crime Intelligence & Analytics Dashboard]('Screenshot 2026-08-16 184407.png')
+![Crime Intelligence & Analytics Dashboard](dashboard.png)
 
 ---
 
